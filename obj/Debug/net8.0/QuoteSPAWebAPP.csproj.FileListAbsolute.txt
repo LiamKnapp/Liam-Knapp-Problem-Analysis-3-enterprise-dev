@@ -1,0 +1,93 @@
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\appsettings.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\libman.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.staticwebassets.runtime.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.exe
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.deps.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.runtimeconfig.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.dll
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.pdb
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.AssemblyInfoInputs.cache
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.AssemblyInfo.cs
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.csproj.CoreCompileInputs.cache
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.RazorAssemblyInfo.cache
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.RazorAssemblyInfo.cs
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.QuoteSPAWebAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.build.QuoteSPAWebAPP.props
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuoteSPAWebAPP.props
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuoteSPAWebAPP.props
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\bundle\QuoteSPAWebAPP.styles.css
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\projectbundle\QuoteSPAWebAPP.bundle.scp.css
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.dll
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\refint\QuoteSPAWebAPP.dll
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.pdb
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.genruntimeconfig.cache
+C:\Users\liamm\source\repos\ProblemAnalysis3\QuoteSPAWebAPP\obj\Debug\net8.0\ref\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\appsettings.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\libman.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.staticwebassets.runtime.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.exe
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.deps.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.runtimeconfig.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.pdb
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.AssemblyInfoInputs.cache
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.AssemblyInfo.cs
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.csproj.CoreCompileInputs.cache
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.RazorAssemblyInfo.cache
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.RazorAssemblyInfo.cs
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.QuoteSPAWebAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.build.QuoteSPAWebAPP.props
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuoteSPAWebAPP.props
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuoteSPAWebAPP.props
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\bundle\QuoteSPAWebAPP.styles.css
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\projectbundle\QuoteSPAWebAPP.bundle.scp.css
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\refint\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.pdb
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.genruntimeconfig.cache
+C:\Users\liamm\Desktop\Final-master\QuoteSPAWebAPP\obj\Debug\net8.0\ref\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\appsettings.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\libman.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.staticwebassets.runtime.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.exe
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.deps.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.runtimeconfig.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\bin\Debug\net8.0\QuoteSPAWebAPP.pdb
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.AssemblyInfoInputs.cache
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.AssemblyInfo.cs
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.csproj.CoreCompileInputs.cache
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.RazorAssemblyInfo.cache
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.RazorAssemblyInfo.cs
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.QuoteSPAWebAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.build.QuoteSPAWebAPP.props
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuoteSPAWebAPP.props
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuoteSPAWebAPP.props
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\bundle\QuoteSPAWebAPP.styles.css
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\scopedcss\projectbundle\QuoteSPAWebAPP.bundle.scp.css
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\refint\QuoteSPAWebAPP.dll
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.pdb
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\QuoteSPAWebAPP.genruntimeconfig.cache
+C:\Users\liamm\Desktop\Liam Knapp - Problem Analysis 3\QuoteSPAWebAPP\obj\Debug\net8.0\ref\QuoteSPAWebAPP.dll

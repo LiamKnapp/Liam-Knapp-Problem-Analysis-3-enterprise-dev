@@ -1,0 +1,54 @@
+﻿<div id="quotes-container">
+    <h2>Quotes</h2>
+    <button onclick="sortByLikes()">Sort by Likes</button>
+    <button onclick="getQuotes()">Show all Quotes</button>
+
+    <!-- Dropdown menu button for sorting by tags -->
+    <div class="dropdown">
+        <button onclick="toggleDropdown()" class="dropbtn">Sort By Tags</button>
+        <div class="dropdown-content" id="tags-dropdown">
+            <!-- Tags will be dynamically added here -->
+        </div>
+    </div>
+
+    <table id="quotes-table" class="table">
+        <thead>
+            <tr>
+                <th>Quote</th>
+                <th>Author</th>
+                <th>Likes</th>
+                <th>Tags</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="quotes-body">
+            <!-- Quotes will be dynamically added here -->
+        </tbody>
+    </table>
+
+    <div id="add-quote-container">
+        <button onclick="showAddQuoteForm()">Add New Quote</button>
+        <div id="add-quote-form" style="display: none;">
+            <input type="text" id="quote-input" placeholder="Enter Quote">
+            <input type="text" id="author-input" placeholder="Enter Author">
+            <div class="dropdown">
+                <button onclick="toggleDropdown()" class="dropbtn">Select Tags To Add</button>
+                <div class="dropdown-content" id="tags-dropdown-add-quote">
+                    <!-- Tags will be dynamically added here -->
+                </div>
+            </div>
+            <button onclick="addNewQuote()">Add Quote</button>
+            <button onclick="hideAddQuoteForm()">Cancel</button>
+        </div>
+    </div>
+
+
+    <div id="add-tag-container">
+        <button onclick="showAddTagForm()">Add New Tag</button>
+        <div id="add-Tag-form" style="display: none;">
+            <input type="text" id="TagName-input" placeholder="Enter Tag">
+            <button onclick="addNewTag()">Add Tag</button>
+            <button onclick="hideAddTagForm()">Cancel</button>
+        </div>
+    </div>
+</div>
