@@ -1,0 +1,33 @@
+﻿@model List<Quotes>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div>
+    <h2>Quotes</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Quote</th>
+                <th>Author</th>
+                <th>Likes</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var quote in Model)
+            {
+                <tr>
+                    <td>@quote.Quote</td>
+                    <td>@quote.Author</td>
+                    <td>@quote.Likes</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
